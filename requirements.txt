@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 gradio
 pywhatkit
+=======
+gradio
+pywhatkit
+>>>>>>> 0a705abdf2cfeb171967fb53c2cb78eb619562e8
